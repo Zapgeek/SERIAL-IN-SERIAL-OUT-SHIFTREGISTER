@@ -60,11 +60,10 @@ endmodule
 ```
 
 **RTL LOGIC FOR SISO Shift Register**
-![Uploading image.png…]()
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![Uploading image.png…]()
+
 
 **RESULTS**
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
